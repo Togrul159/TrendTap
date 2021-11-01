@@ -1,0 +1,682 @@
+
+@media only screen  and (max-width:1200px){
+    .orange img{
+        height: 383px !important;
+    }
+    .register-modal-img img{
+        display: none !important;
+    }
+    .register-modal-img h1{
+        display: none;
+    }
+    .modal-line{
+        display: none;
+    }
+    .register-modal{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .left-img img{
+        height: 605px;
+    }
+    .white-info input{
+        width: 100%;
+    }
+    .white-info form textarea {
+        width: 440px;
+        align-self: center;
+    }
+    .textarea-parent{
+        display: flex;
+        justify-content: center;
+    }
+    .right-adress-info .white-info-member{
+        padding: 53px 0 !important;
+        height: 390px;
+    }
+    .coupon{
+        margin: 0 0 50px 0;
+    }
+    .coupon-outlet{
+        top: 52px;
+        left: -17px;
+        font-size: 1em;
+    }
+    .coupon-expire-date{
+        top: 59px;
+        left: 71px;
+        font-size: .7em;
+    }
+    .coupon-cost{
+        position: absolute;
+        top: 58px;
+        right: 47px;
+        font-size: 2em;
+    }
+    .account-long-input button{
+        margin: 0 0 15px 0;
+    }
+    .password-ex button{
+        margin: 0 0 15px 0;
+    }
+    .detail-img img{
+        width: 100%;
+    }
+    .detail-img{
+        display: flex;
+        margin: 15px auto;
+        justify-content: center;
+    }
+    .text-border-detail{
+        padding: 25px !important;
+    }
+    .fr{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .fav-card button{
+        height: 70px;
+        padding: 5px;
+    }
+    .responsive-block{
+        display: block !important;
+    }
+}
+@media only screen  and (max-width:992px){
+    .orange{
+        display: none;
+    }
+    .left-img img{
+        width: 100%;
+        height: 552px;
+        object-fit: cover;
+    }
+    .offer{
+        margin: 50px 0 0 0 ;
+    }
+    .product{
+        justify-content: center;
+    }
+    .right-adress-info .white-info-member{
+        padding: 35px 0 !important;
+        height: auto;
+    }
+    .right-adress-info .white-info-member .card{
+        margin: 0 0 20px 0;
+    } 
+    .right-adress-info .white-info-member .card button{
+        font-size: 1.2em;
+    }
+    .coupon-outlet{
+        top: 131px;
+        left: -25px;
+        font-size: 2em;
+    }
+    .coupon-expire-date{
+        top: 137px;
+        left: 164px;
+        font-size: 1.7em;
+    }
+    .coupon-cost{
+        position: absolute;
+        top: 153px;
+        right: 126px;
+        font-size: 3.5em;
+    }
+    .adress-change-modal-short-input {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: unset !important;
+    }
+    .adress-change-modal-short-input input {
+        width: 100%;
+        align-self: center;
+    }
+    .adress-change-modal-short-input label{
+        width: 100% !important;
+        align-self: center;
+    }
+    .adress-change-modal-long-input  {
+        align-self: center;
+        width: 100%;
+    }
+    .adress-change-modal-long-input input {
+        width: 100%;
+    }
+    .select{
+        margin: 0 15px;
+    }
+    .white-order-list-item1{
+        display: flex;
+        justify-content: center;
+    }
+    .slider-2 button{
+        width: 150px !important;
+        height: 35px !important;
+
+    }
+    .slider-2{
+        bottom: 5% !important;
+    }
+    .plus button{
+        width: 40px;
+        height: 40px;
+       font-size: 2.5em;
+    }
+    .plus-number input{
+        width: 55px;
+        height: 55px;
+        font-size: 2em;
+    }
+    .category-card{
+        margin: 20px 0 0 0 ;
+    }
+}
+@media only screen  and (max-width:769px){
+    .line{
+        display: none;
+    }
+    .social i{
+        font-size: 20px;
+    }
+    .order-line{
+        display: none;
+    }
+    .right-add-to-card-section{
+        padding: 50px 0 !important;
+    }
+    .center-add-to-card-section{
+        padding: 50px 0;
+    }
+    .comments{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        padding: 0 0 30px 0;
+    }
+    .comment-value{
+        font-size: 2em !important;
+    }
+    .comment-star {
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+       justify-content: center;
+
+       margin: 10px 0 0 0 ;
+    }
+    .comment-star h1{
+        padding:  0 10px 0 0;
+    }
+    .coupon-outlet{
+        top: 94px;
+        left: -42px;
+        font-size: 2em;
+    }
+    .coupon-expire-date{
+        top: 104px;
+        left: 124px;
+        font-size: 1.2em;
+    }
+    .coupon-cost{
+        position: absolute;
+        top: 107px;
+        right: 88px;
+        font-size: 3em;
+    }
+    .text-area img {
+        position: absolute;
+        top: 92px;
+        right: 15px;
+        width: 200px;
+    }
+    .about-header{
+        padding: 25px 0 100px 0;
+    }
+    .text-area-shipping img {
+        position: absolute;
+        top: 50px;
+        right: 15px;
+        width: 200px;
+    }
+    .text-area-faq img{
+        position: absolute;
+        top: 50px;
+        right: 15px;
+        width: 200px;
+    }
+    .text-control h6 , .text-control p{
+        text-align: center !important;
+    }
+    .photo-text{
+        display: flex;
+        justify-content: center;
+    }
+    .carousel-caption button{
+        width: 150px;
+        height: 30px;
+        font-size: 1em;
+    }
+    .carousel-caption{
+        bottom: 8% !important;
+    }
+    .marquee-content li {
+      margin: 0 15px !important;
+    }
+    .marquee-content li img {
+      object-fit: cover;
+      width: 80% !important;
+      height: unset !important;
+    }
+    .right-item{
+        height: 50px !important;
+    }
+    .cart-size-ex{
+        height: 50px !important;
+    }
+}
+@media only screen  and (max-width:695px){
+    .header-parent div{
+        margin:0 10px  10px 10px ;
+    }
+}
+@media only screen  and (max-width:616px){
+    .menu{
+        justify-content: center !important;
+    }
+}
+@media only screen  and (max-width:592px){
+    .little-menu{
+        left: 17px;
+        top: 360px;
+    }
+    .little-menu-parent img{
+        width: 45px;
+    }
+    .comment-value{
+        font-size: 3em !important;
+    }
+
+}
+@media only screen  and (max-width:575px){
+    .panel-parent{
+        display: flex;
+        justify-content: center;
+    }
+    .product{
+        flex-direction: column-reverse;
+    }
+    .product-small-img{
+        display: flex;
+        justify-content: space-between;
+    }
+    .small-img-box{
+        margin: 10px 5px;
+    }
+    .big-img-box{
+        width: 100%;
+    }
+    .big-img-box{
+        margin: 0  !important;
+    }
+    .owl-title{
+        font-size: 2.5em !important;
+    }
+    .owl-text{
+        font-size: 1.5em !important;
+    }
+    .cost-blue{
+        width: 145px;
+        font-size: 1.2em;
+    }
+    .cost-white{
+        width: 145px;
+        font-size: 1.2em;
+    }
+    .manat-size{
+        font-size: 1.5em;
+    }
+    .comment-size{
+        font-size: 2em;
+    }
+}
+@media only screen  and (max-width:500px){
+    .order-input{
+        flex-direction: column;
+        gap: unset;
+    }
+    .order-input input{
+        width: 100%;
+        align-self: center;
+    }
+   .white-info form {
+        justify-content: center;
+    }
+    .white-info form textarea {
+        width: 100%;
+        align-self: center;
+        margin: auto;
+    }
+    .white-info form label{
+        width: 80%;
+    }
+    .textarea-parent{
+        margin: unset;
+    }
+    .adress-input{
+        flex-direction: column;
+        gap: unset;
+    }
+    .adress-big-input{
+        display: flex;
+        justify-content: center;
+        margin: unset;
+    }
+    .white-info-member label{
+        width: 80%;
+    }
+    .white-info-member input{
+        width: 100%;
+    }
+    .coupon-outlet{
+        top: 94px;
+        left: -25px;
+        font-size: 1.5em;
+    }
+    .coupon-expire-date{
+        top: 87px;
+        left: 100px;
+        font-size: 1em;
+    }
+    .coupon-cost{
+        position: absolute;
+        top: 107px;
+        right: 96px;
+        font-size: 2em;
+    }
+    .account-short-input input {
+        width: 80%;
+    }
+    .account-long-input input {
+        width: 80%;
+        align-self: center;
+    }
+    .account-long-input button {
+        width: 80%;
+    }
+    .account-short-input {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .account-long-input{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .form-border form input{
+        align-self: center;
+    }
+    .form-border form button{
+        align-self: center;
+    }
+    .password-ex{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .password-ex input{
+        align-self: center;
+        width: 80%;
+    }
+    .password-ex-end{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .password-ex-end input{
+        align-self: center;
+        width: 80%;
+    }
+    .password-ex-end button{
+        align-self: center;
+        width: 80%;
+    }
+}
+@media only screen  and (max-width:485px){
+    .cart-result{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .cart-final-cost{
+        width: 60%;
+        margin: auto;
+        margin: 0 auto 15px auto;
+    }
+    .cart-final-button button{
+        width: 80%;
+        margin: auto;
+    }
+    .comment-title{
+        flex-direction: column;
+    }
+    .comment-title button{
+        margin: 15px 0 0 0;
+    }
+}
+@media only screen  and (max-width:450px){
+    .coupon-outlet{
+        top: 87px;
+        left: -11px;
+        font-size: 1em;
+    }
+    .coupon-expire-date{
+        top: 87px;
+        left: 100px;
+        font-size: 1em;
+    }
+    .coupon-cost{
+        position: absolute;
+        top: 100px;
+        right: 96px;
+        font-size: 1.5em;
+    }
+    .text-area{
+        text-align: center;
+    }
+    .text-area img{
+        top: 92%;
+        left: 50%;
+        transform: translate(-50%, 43%);
+    }
+    .text-area-shipping{
+        text-align: center;
+    }
+    .text-area-shipping img{
+        top: -22%;
+        left: 50%;
+        transform: translate(-50%, 43%);
+    }
+    .text-area-faq{
+        text-align: center;
+        margin: 0 0 100px 0;
+    }
+    .text-area-faq img{
+        top: 100%;
+        left: 50%;
+        transform: translate(-50%, 43%);
+    }
+    .white-order-list-card{
+        width: 80% !important;
+        margin: auto !important;
+    }
+    .white-bg{
+        justify-content: center;
+        align-items: center;
+    }
+    .white-bg h5 , .white-bg p{
+        text-align: center;
+    }
+    .order-orange-title div{
+        padding: 15px 0;
+        border: 1px solid #FFF;
+        width: 150px;
+        margin: 15px auto;
+        text-align: center;
+    }
+    .carousel-caption button {
+        width: 80px;
+        height: 20px;
+        font-size: .8em;
+        border-radius: 5px;
+    }
+    .carousel-caption{
+        bottom: -1% !important;
+    }
+}
+@media only screen  and (max-width:420px){
+    .navbar-img{
+        width: 150px !important;
+    }
+    .coupon-outlet{
+        top: 54px;
+        left: -10px;
+        font-size: .8em;
+    }
+    .coupon-expire-date{
+        top: 47px;
+        left: 61px;
+        font-size: .7em;
+    }
+    .coupon-cost{
+        position: absolute;
+        top:69px;
+        right: 60px;
+        font-size: 1em;
+    }
+}
+@media only screen  and (max-width:400px){
+    .coupon-outlet{
+        top: 54px;
+        left: -10px;
+        font-size: .8em;
+    }
+    .coupon-expire-date{
+        top: 47px;
+        left: 61px;
+        font-size: .7em;
+    }
+    .coupon-cost{
+        position: absolute;
+        top:69px;
+        right: 60px;
+        font-size: 1em;
+    }
+}
+@media only screen  and (max-width:380px){
+    .center-add-to-card-section h5{
+        font-size: 1em;
+        padding: 15px 0;
+    }
+    .product-comment{
+        height: 200px;
+    }
+    .comment-item p{
+        padding: 0 5px 10px 5px;
+        width: 80%;
+        margin: auto;
+
+    }
+
+  
+    
+}
+@media only screen  and (max-width:345px){
+    .select{
+        margin: 15px 10px;
+    }
+}
+
+
+/* FOR-MODAL-INPUTS */
+@media only screen and (max-width:440px){
+    .short-input{
+        width: 120px;
+    }
+    .long-input{
+        width: 277px;
+    }
+    .register-modal-inputs form input{
+        align-self: center;
+    }
+    .forgot-password{
+        flex-direction: column;
+        align-self: center;
+    }
+    .forgot-password p{
+        padding: 0 0 10px 0;
+    }
+}
+@media only screen and (max-width:320px){
+   .name-input{
+       flex-direction: column;
+       justify-content: center;
+       align-self: center;
+   }
+   .short-input{
+       width: 180px;
+   }
+   .long-input{
+       width: 180px;
+   }
+   .register-modal-inputs form{
+       align-self: center;
+   }
+}
+/* FOR-MODAL-INPUTS-END */
+
+/* FOR-FOOTER */
+@media only screen and (max-width:583px){
+    .footer-inner{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .footer-text{
+        margin: auto;
+        text-align: center;
+    }
+    .footer-text h4{
+        padding: 20px 0 0 0 ;
+    }
+}
+/* FOR-FOOTER-END */
+
+/* FOR-FORGOT-PASSWORD */
+@media only screen and (max-width:635px){
+   .forgot-password-modal{
+       width: 80%;
+   }
+}
+@media only screen and (max-width:635px){
+    .forgot-password-modal form input{
+        width: 80%;
+    }
+    .forgot-password-modal button{
+        width: 80%;
+    }
+ }
+/* FOR-FORGOT-PASSWORD-END */
+
+/* FOR-FONT-SIZES */
+@media only screen and (max-width:580px){
+    .footer-text{
+        font-size: 1.5em !important;
+    }
+}
+/* FOR-FONT-SIZES-END */
